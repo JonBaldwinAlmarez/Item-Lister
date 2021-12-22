@@ -73,3 +73,5 @@ function filterItems(e) {
     } ) ;
 
 }
+
+console.log('Hello world')
